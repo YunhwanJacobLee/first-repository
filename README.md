@@ -38,13 +38,13 @@ public class BootSpringBootApplication {
 
 일반적인 URL 혹은 이메일주소인 경우 적절한 형식으로 링크를 형성한다.
 
-[아이펠]: (https://aiffel.io, "AIFFEL Link")
+[아이펠]: https://aiffel.io, "AIFFEL Link"
 - - -
 [link keyword][id]
 
 [id]: URL "Optional Title here"
 
-// code
+// code   
 Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
