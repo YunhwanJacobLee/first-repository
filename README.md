@@ -41,7 +41,7 @@ public class BootSpringBootApplication {
 [아이펠]:(https://aiffel.io, "AIFFEL Link")
 
 Link: [AIFFEL][aiffellink]
-[aifellink]: https://aiffel.io
+[aifellink]: https://aiffel.io "Go aifell"
 
 - - -
 [link keyword][id]
@@ -54,7 +54,7 @@ Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
 
 - - -
-사용문법: [Title](link)
+사용문법: [Title](link)   
 적용예: [Google](https://google.com, "google link")
 - - -
 * 외부링크: <http://example.com/>
